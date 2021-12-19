@@ -1,0 +1,32 @@
+body {
+   text-align: center;
+  background-color: beige;
+  display: flex;
+  min-height: 100vh;
+  
+}
+.container {
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    min-height: 60vh;
+    flex: 0 0 70%;
+    padding: 20px;
+}
+#btn {
+    background-color: beige;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(113, 113, 121);
+    border-radius: 0 20px 0 20px;
+}
+h3 {
+    color: grey;
+    font-size: 25px;
+}
+#author {
+    color: rgb(134, 134, 218);
+}
+h1 {
+    color: rgb(155, 81, 81);
+}
